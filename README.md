@@ -12,3 +12,4 @@ STLs for panel stencils created using [Fusion360](https://www.autodesk.com/produ
 Modules are made in the [Kosmo](https://www.lookmumnocomputer.com/modular) format unless otherwise noted.
 
 * [simple mixer](https://www.lookmumnocomputer.com/projects#/mixer)
+* [AS3360 VCA](https://www.lookmumnocomputer.com/projects#/1181-dual-vca)
