@@ -84,9 +84,9 @@
       (subtractmaskfromsilk false)
       (outputformat 1)
       (mirror false)
-      (drillshape 1)
+      (drillshape 0)
       (scaleselection 1)
-      (outputdirectory ""))
+      (outputdirectory "/Users/toasty/electronics/synth_schematics/vca_3360/gerber/"))
   )
 
   (net 0 "")
@@ -185,7 +185,7 @@
   )
 
   (module MountingHole:MountingHole_3mm_Pad (layer F.Cu) (tedit 56D1B4CB) (tstamp 5FEA8B53)
-    (at 204.8764 95.758)
+    (at 206 95)
     (descr "Mounting Hole 3mm")
     (tags "mounting hole 3mm")
     (attr virtual)
@@ -204,7 +204,7 @@
   )
 
   (module MountingHole:MountingHole_3mm_Pad (layer F.Cu) (tedit 56D1B4CB) (tstamp 5FEA8B45)
-    (at 204.8764 141.5796)
+    (at 206 141)
     (descr "Mounting Hole 3mm")
     (tags "mounting hole 3mm")
     (attr virtual)
@@ -223,7 +223,7 @@
   )
 
   (module MountingHole:MountingHole_3mm_Pad (layer F.Cu) (tedit 56D1B4CB) (tstamp 5FEA8B37)
-    (at 116.6876 141.5796)
+    (at 116 141)
     (descr "Mounting Hole 3mm")
     (tags "mounting hole 3mm")
     (attr virtual)
@@ -242,7 +242,7 @@
   )
 
   (module MountingHole:MountingHole_3mm_Pad (layer F.Cu) (tedit 56D1B4CB) (tstamp 5FEA8B36)
-    (at 116.6876 94.1324)
+    (at 116 95)
     (descr "Mounting Hole 3mm")
     (tags "mounting hole 3mm")
     (attr virtual)
@@ -2042,7 +2042,7 @@
     (fp_text reference D2 (at 4.1021 -0.1016) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value BZX55C2V0 (at 3.81 2.12) (layer F.Fab) hide
+    (fp_text value BZX55C2V0 (at 3.81 2.12) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text user K (at 0 -1.8) (layer F.SilkS)
@@ -2092,7 +2092,7 @@
     (fp_text reference D1 (at -2.286 -0.2032) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value BZX55C2V0 (at 3.81 2.12) (layer F.Fab) hide
+    (fp_text value BZX55C2V0 (at 3.81 2.12) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text user K (at 0 -1.8) (layer F.SilkS)
@@ -2562,7 +2562,7 @@
   (gr_text "toastynerd 2020\n" (at 173.8884 94.3864) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (gr_text "3360 Dual VCA V1\n" (at 158.8516 94.488) (layer F.SilkS)
+  (gr_text "3360 Dual VCA\n" (at 158.8516 94.488) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
 

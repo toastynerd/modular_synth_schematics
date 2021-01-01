@@ -2562,7 +2562,7 @@
   (gr_text "toastynerd 2020\n" (at 173.8884 94.3864) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (gr_text "3360 Dual VCA\n" (at 158.8516 94.488) (layer F.SilkS)
+  (gr_text "3360 Dual VCA V1\n" (at 158.8516 94.488) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
 
