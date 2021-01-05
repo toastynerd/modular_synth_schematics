@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 6)
+    (drawings 7)
     (tracks 274)
     (zones 0)
     (modules 44)
@@ -2251,6 +2251,9 @@
     )
   )
 
+  (gr_text JLCJLCJLCJLC (at 118.872 130.3655) (layer B.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+  )
   (gr_text "toastynerd 2021\n" (at 116.9924 45.2247) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
