@@ -1,0 +1,35 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,(5.1.6-0-10_14)*%
+%TF.CreationDate,2021-10-27T22:41:10-07:00*%
+%TF.ProjectId,lm13700-multimode-filter-panel,6c6d3133-3730-4302-9d6d-756c74696d6f,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Soldermask,Bot*%
+%TF.FilePolarity,Negative*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW (5.1.6-0-10_14)) date 2021-10-27 22:41:10*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10C,6.100000*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,REF\u002A\u002A*%
+X95000000Y-135000000D03*
+%TD*%
+%TO.C,REF\u002A\u002A*%
+X40000000Y-50000000D03*
+%TD*%
+%TO.C,REF\u002A\u002A*%
+X25000000Y-215000000D03*
+%TD*%
+%TO.C,REF\u002A\u002A*%
+X115000000Y-215000000D03*
+%TD*%
+%TO.C,REF\u002A\u002A*%
+X115000000Y-25000000D03*
+%TD*%
+%TO.C,REF\u002A\u002A*%
+X25000000Y-25000000D03*
+%TD*%
+M02*
